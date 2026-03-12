@@ -23,10 +23,8 @@ Each gesture triggers a unique **3D particle-based animation** rendered in real 
 
 ## Tech Stack
 
-- **JavaScript**
 - **Three.js** – 3D particle rendering
 - **MediaPipe Hands** – Real-time hand tracking
-- **WebGL** – GPU accelerated graphics
 - **HTML5 / CSS3**
 
 ---
